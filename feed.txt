@@ -223,7 +223,7 @@
          <post-id xmlns="com-wordpress:feed-additions:1">84</post-id>
       </item>
       <item>
-         <title>EPISODE 004 – Faker than Virginia Marmalade</title>
+         <title>Episode 004 – Faker than Virginia Marmalade</title>
          <itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/1000x-1-560x560.jpg" />
          <link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_004.mp3</link>
          <comments>http://nigganews.com/podcast-004/#respond</comments>
