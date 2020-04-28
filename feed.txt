@@ -121,7 +121,69 @@
 
 			<post-id xmlns="com-wordpress:feed-additions:1">105</post-id>	
 		</item>
-	
+	<item>
+		<title>Episode 009 &#8211; Shields from Slavery</title>
+			<image>
+	<url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/abg_claressashieldsfight-35-560x560.jpg</url>
+		</image>
+		<link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_009.mp3</link>
+					<comments>http://nigganews.com/podcast-009/#respond</comments>
+		
+		<dc:creator><![CDATA[othello]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2020 13:07:00 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[African ancestry]]></category>
+		<category><![CDATA[afro latina]]></category>
+		<category><![CDATA[china]]></category>
+		<category><![CDATA[corona]]></category>
+		<category><![CDATA[dna]]></category>
+		<category><![CDATA[dominican republic]]></category>
+		<category><![CDATA[nigga news]]></category>
+		<guid isPermaLink="false">http://nigganews.com/?p=103</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-audio"><audio controls src="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_009.mp3"></audio></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://nigganews.com/podcast-009/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_009.mp3" length="26985533" type="audio/mpeg" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">103</post-id>	</item>
+		<item>
+		<title>Episode 008 &#8211; Flu Right Past Us</title>
+					<image>
+	<url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/150627-moynihan-black-panther-tease_m9pftx-1-560x560.jpg</url>
+		</image>
+		<link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_008.mp3</link>
+					<comments>http://nigganews.com/podcast-008/#respond</comments>
+		
+		<dc:creator><![CDATA[othello]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2020 13:06:00 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[bernie sanders]]></category>
+		<category><![CDATA[corona virus]]></category>
+		<category><![CDATA[doctors]]></category>
+		<category><![CDATA[health]]></category>
+		<category><![CDATA[Louisiana]]></category>
+		<category><![CDATA[Milwauke]]></category>
+		<category><![CDATA[ranting]]></category>
+		<category><![CDATA[south]]></category>
+		<category><![CDATA[van jones]]></category>
+		<guid isPermaLink="false">http://nigganews.com/?p=101</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-audio"><audio controls src="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_008.mp3"></audio></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://nigganews.com/podcast-008/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">101</post-id>	</item>
 	
 	</channel>
 </rss>
