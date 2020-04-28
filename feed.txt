@@ -83,7 +83,7 @@
 	<url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/gettyimages-642536326_custom-18cae891e84e108f6bd81037ca1d5468b4bef3de-s800-c85-560x540.jpg</url>
 		</image>
 			<title>Episode 010 &#8211; Shirley No Cap!</title>
-			<link>http://nigganews.com/podcast-010/</link>
+			<link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_010.mp3</link>
 						<comments>http://nigganews.com/podcast-010/#respond</comments>
 
 			<dc:creator><![CDATA[othello]]></dc:creator>
