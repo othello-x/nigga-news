@@ -30,7 +30,7 @@
 	<generator>https://wordpress.org/?v=5.4</generator>
 <site xmlns="com-wordpress:feed-additions:1">174614120</site>	<item>
 		<title>Episode 011 &#8211; Funky Starlight</title>
-		<link>http://nigganews.com/podcast-011/</link>
+		<link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_011.mp3</link>
 					<comments>http://nigganews.com/podcast-011/#respond</comments>
 		
 		<dc:creator><![CDATA[othello]]></dc:creator>
@@ -78,7 +78,6 @@
 	<url>>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/merlin_151657554_bca20d46-d26b-4205-958b-0a8ffd76a1de-superJumbo-560x560.jpg</url>
 		</image>
 	<title>Nigga News Episode 011</title>
-	<link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/merlin_151657554_bca20d46-d26b-4205-958b-0a8ffd76a1de-superJumbo-560x560.jpg</link>
 
 	</channel>
 </rss>
