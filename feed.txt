@@ -332,7 +332,7 @@
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">79</post-id>	</item>
 		<item>
-		<title>EPISODE 003 – Contagion Shuga Bug No Hugs</title>
+		<title>Episode 003 – Contagion Shuga Bug No Hugs</title>
 											<image>
 	<url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/5b6d4f83ad017-560x560.jpeg</url>
 		</image>
