@@ -184,6 +184,250 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">101</post-id>	</item>
-	
+			<item>
+		<title>Episode 007 &#8211; Feminist Egyptian Hoteps</title>
+					<image>
+	<url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/wintayohannes1-560x439.jpg</url>
+		</image>
+		<link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_007.mp3</link>
+					<comments>http://nigganews.com/podcast-007/#respond</comments>
+		
+		<dc:creator><![CDATA[othello]]></dc:creator>
+		<pubDate>Mon, 06 Apr 2020 01:05:00 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[ancient egpyth]]></category>
+		<category><![CDATA[ancient nubia]]></category>
+		<category><![CDATA[chris rock]]></category>
+		<category><![CDATA[colored hockey league]]></category>
+		<category><![CDATA[congo]]></category>
+		<category><![CDATA[corona]]></category>
+		<category><![CDATA[domestic]]></category>
+		<category><![CDATA[egypt]]></category>
+		<category><![CDATA[feminism]]></category>
+		<category><![CDATA[hockey]]></category>
+		<category><![CDATA[joe exotic]]></category>
+		<category><![CDATA[michael jackson]]></category>
+		<category><![CDATA[nigga]]></category>
+		<category><![CDATA[nova scotia]]></category>
+		<category><![CDATA[nubia]]></category>
+		<category><![CDATA[relationships]]></category>
+		<category><![CDATA[whitewashing]]></category>
+		<guid isPermaLink="false">http://nigganews.com/?p=99</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-audio"><audio controls src="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_007.mp3"></audio></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://nigganews.com/podcast-007/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_007.mp3" length="57319966" type="audio/mpeg" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">99</post-id>	</item>
+		<item>
+		<title>Episode 006 &#8211; Legalized Africanized Domestication</title>
+							<image>
+	<url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/ECn8MBaW4AAL3Lt-560x560.jpg</url>
+		</image>
+		<link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_006.mp3</link>
+					<comments>http://nigganews.com/podcast-006/#respond</comments>
+		
+		<dc:creator><![CDATA[othello]]></dc:creator>
+		<pubDate>Fri, 03 Apr 2020 08:00:00 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[black men]]></category>
+		<category><![CDATA[intellectual]]></category>
+		<category><![CDATA[john Boyega]]></category>
+		<category><![CDATA[kyle barker]]></category>
+		<category><![CDATA[literacy]]></category>
+		<category><![CDATA[living single]]></category>
+		<category><![CDATA[nigga news]]></category>
+		<category><![CDATA[peace corps]]></category>
+		<category><![CDATA[star wars]]></category>
+		<category><![CDATA[uganda]]></category>
+		<guid isPermaLink="false">http://nigganews.com/?p=94</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-audio"><audio controls src="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_006.mp3"></audio></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://nigganews.com/podcast-006/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">94</post-id>	</item>
+		<item>
+		<title>Episode 005 &#8211; Christian Negroes Lack Empathy</title>
+							<image>
+	<url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/71ce94777ee9df011a5aca1886545de0.jpg</url>
+		</image>
+		<link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_005.mp3</link>
+					<comments>http://nigganews.com/podcast-005/#respond</comments>
+		
+		<dc:creator><![CDATA[othello]]></dc:creator>
+		<pubDate>Tue, 31 Mar 2020 06:00:00 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[african american]]></category>
+		<category><![CDATA[african american pilots]]></category>
+		<category><![CDATA[black girl magic]]></category>
+		<category><![CDATA[black israelites]]></category>
+		<category><![CDATA[black panthers]]></category>
+		<category><![CDATA[black pilots]]></category>
+		<category><![CDATA[corona]]></category>
+		<category><![CDATA[flight]]></category>
+		<category><![CDATA[racism]]></category>
+		<guid isPermaLink="false">http://nigganews.com/?p=84</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-audio"><audio controls src="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_005.mp3"></audio></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://nigganews.com/podcast-005/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_005.mp3" length="37545272" type="audio/mpeg" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">84</post-id>	</item>
+		<item>
+		<title>EPISODE 004 – Faker than Virginia Marmalade</title>
+									<image>
+	<url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/1000x-1-560x560.jpg</url>
+		</image>
+		<link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_004.mp3</link>
+					<comments>http://nigganews.com/podcast-004/#respond</comments>
+		
+		<dc:creator><![CDATA[othello]]></dc:creator>
+		<pubDate>Sat, 28 Mar 2020 17:39:02 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[ahsoka tano]]></category>
+		<category><![CDATA[corona]]></category>
+		<category><![CDATA[doctor]]></category>
+		<category><![CDATA[Eunice Hunton Carter]]></category>
+		<category><![CDATA[invisible]]></category>
+		<category><![CDATA[jedi]]></category>
+		<category><![CDATA[mandalorian]]></category>
+		<category><![CDATA[new york]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[nigga]]></category>
+		<category><![CDATA[nigga news]]></category>
+		<category><![CDATA[nyc]]></category>
+		<category><![CDATA[racism]]></category>
+		<category><![CDATA[rosario dawson]]></category>
+		<category><![CDATA[star wars]]></category>
+		<category><![CDATA[trump]]></category>
+		<category><![CDATA[virus]]></category>
+		<guid isPermaLink="false">http://nigganews.com/?p=79</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-audio"><audio controls src="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_004.mp3"></audio></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://nigganews.com/podcast-004/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">79</post-id>	</item>
+		<item>
+		<title>EPISODE 003 – Contagion Shuga Bug No Hugs</title>
+											<image>
+	<url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/5b6d4f83ad017-560x560.jpeg</url>
+		</image>
+		<link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_003-1.mp3</link>
+					<comments>http://nigganews.com/podcast-003/#respond</comments>
+		
+		<dc:creator><![CDATA[othello]]></dc:creator>
+		<pubDate>Sun, 22 Mar 2020 17:22:44 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[asian american]]></category>
+		<category><![CDATA[bernie sanders]]></category>
+		<category><![CDATA[china]]></category>
+		<category><![CDATA[corona]]></category>
+		<category><![CDATA[idris elba]]></category>
+		<category><![CDATA[joe biden]]></category>
+		<category><![CDATA[nyc]]></category>
+		<category><![CDATA[quarantine]]></category>
+		<category><![CDATA[racism]]></category>
+		<category><![CDATA[virus]]></category>
+		<guid isPermaLink="false">http://nigganews.com/?p=69</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-audio"><audio controls src="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_003-1.mp3"></audio><figcaption> Nigga News Episode 003 </figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://nigganews.com/podcast-003/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_003-1.mp3" length="52800782" type="audio/mpeg" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">69</post-id>	</item>
+		<item>
+		<title>Episode 002 – Streaming Services See Slytherblacks</title>
+												<image>
+	<url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/Max-Robinson-at-ABC-World-News-Tonight-desk-560x560.jpg</url>
+		</image>
+		<link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_002.mp3</link>
+					<comments>http://nigganews.com/podcast-002/#respond</comments>
+		
+		<dc:creator><![CDATA[othello]]></dc:creator>
+		<pubDate>Wed, 04 Mar 2020 18:31:28 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[allies]]></category>
+		<category><![CDATA[bnc]]></category>
+		<category><![CDATA[dwayne wade]]></category>
+		<category><![CDATA[ellen]]></category>
+		<category><![CDATA[koffee]]></category>
+		<category><![CDATA[lgbtq]]></category>
+		<category><![CDATA[Lupita Nyong’o]]></category>
+		<category><![CDATA[rush hour]]></category>
+		<guid isPermaLink="false">http://nigganews.com/?p=61</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-audio"><audio controls src="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_002.mp3"></audio></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://nigganews.com/podcast-002/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_002.mp3" length="56425533" type="audio/mpeg" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">61</post-id>	</item>
+		<item>
+		<title>Episode 001 &#8211; Blackonmics Bernie Bro</title>
+													<image>
+	<url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/1_CB54HUdG1xaZbvrDO5QDlQ-560x560.jpeg</url>
+		</image>
+		<link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_001-3.mp3</link>
+					<comments>http://nigganews.com/podcast-001/#respond</comments>
+		
+		<dc:creator><![CDATA[othello]]></dc:creator>
+		<pubDate>Wed, 04 Mar 2020 00:34:47 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[blacks]]></category>
+		<category><![CDATA[boondocks]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[harlem]]></category>
+		<category><![CDATA[harlem capital]]></category>
+		<category><![CDATA[investment]]></category>
+		<category><![CDATA[nigga]]></category>
+		<category><![CDATA[nyc]]></category>
+		<category><![CDATA[trumps]]></category>
+		<category><![CDATA[umar johnson]]></category>
+		<category><![CDATA[vc]]></category>
+		<guid isPermaLink="false">http://nigganews.com/?p=41</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>http://nigganews.com/podcast-001/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_001-3.mp3" length="37795003" type="audio/mpeg" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">41</post-id>	</item>
 	</channel>
 </rss>
