@@ -79,9 +79,7 @@
 
 		<post-id xmlns="com-wordpress:feed-additions:1">136</post-id>	</item>
 		<item>
-		<image>
-	<url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/gettyimages-642536326_custom-18cae891e84e108f6bd81037ca1d5468b4bef3de-s800-c85-560x540.jpg</url>
-		</image>
+				<itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/gettyimages-642536326_custom-18cae891e84e108f6bd81037ca1d5468b4bef3de-s800-c85-560x540.jpg" />
 			<title>Episode 010 &#8211; Shirley No Cap!</title>
 			<link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_010.mp3</link>
 						<comments>http://nigganews.com/podcast-010/#respond</comments>
@@ -123,9 +121,7 @@
 		</item>
 	<item>
 		<title>Episode 009 &#8211; Shields from Slavery</title>
-			<image>
-	<url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/abg_claressashieldsfight-35-560x560.jpg</url>
-		</image>
+		<itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/abg_claressashieldsfight-35-560x560.jpg" />
 		<link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_009.mp3</link>
 					<comments>http://nigganews.com/podcast-009/#respond</comments>
 		
@@ -154,9 +150,7 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">103</post-id>	</item>
 		<item>
 		<title>Episode 008 &#8211; Flu Right Past Us</title>
-					<image>
-	<url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/150627-moynihan-black-panther-tease_m9pftx-1-560x560.jpg</url>
-		</image>
+						<itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/150627-moynihan-black-panther-tease_m9pftx-1-560x560.jpg" />
 		<link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_008.mp3</link>
 					<comments>http://nigganews.com/podcast-008/#respond</comments>
 		
@@ -186,9 +180,7 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">101</post-id>	</item>
 			<item>
 		<title>Episode 007 &#8211; Feminist Egyptian Hoteps</title>
-					<image>
-	<url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/wintayohannes1-560x439.jpg</url>
-		</image>
+				<itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/wintayohannes1-560x439.jpg" />
 		<link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_007.mp3</link>
 					<comments>http://nigganews.com/podcast-007/#respond</comments>
 		
@@ -227,9 +219,7 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">99</post-id>	</item>
 		<item>
 		<title>Episode 006 &#8211; Legalized Africanized Domestication</title>
-							<image>
-	<url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/ECn8MBaW4AAL3Lt-560x560.jpg</url>
-		</image>
+		<itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/ECn8MBaW4AAL3Lt-560x560.jpg" />
 		<link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_006.mp3</link>
 					<comments>http://nigganews.com/podcast-006/#respond</comments>
 		
@@ -260,9 +250,7 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">94</post-id>	</item>
 		<item>
 		<title>Episode 005 &#8211; Christian Negroes Lack Empathy</title>
-							<image>
-	<url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/71ce94777ee9df011a5aca1886545de0.jpg</url>
-		</image>
+				<itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/71ce94777ee9df011a5aca1886545de0.jpg" />
 		<link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_005.mp3</link>
 					<comments>http://nigganews.com/podcast-005/#respond</comments>
 		
@@ -293,9 +281,7 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">84</post-id>	</item>
 		<item>
 		<title>EPISODE 004 – Faker than Virginia Marmalade</title>
-									<image>
-	<url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/1000x-1-560x560.jpg</url>
-		</image>
+		<itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/1000x-1-560x560.jpg" />
 		<link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_004.mp3</link>
 					<comments>http://nigganews.com/podcast-004/#respond</comments>
 		
@@ -333,9 +319,7 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">79</post-id>	</item>
 		<item>
 		<title>Episode 003 – Contagion Shuga Bug No Hugs</title>
-											<image>
-	<url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/5b6d4f83ad017-560x560.jpeg</url>
-		</image>
+						<itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/5b6d4f83ad017-560x560.jpeg" />
 		<link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_003-1.mp3</link>
 					<comments>http://nigganews.com/podcast-003/#respond</comments>
 		
@@ -367,9 +351,7 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">69</post-id>	</item>
 		<item>
 		<title>Episode 002 – Streaming Services See Slytherblacks</title>
-												<image>
-	<url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/Max-Robinson-at-ABC-World-News-Tonight-desk-560x560.jpg</url>
-		</image>
+				<itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/Max-Robinson-at-ABC-World-News-Tonight-desk-560x560.jpg" />
 		<link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_002.mp3</link>
 					<comments>http://nigganews.com/podcast-002/#respond</comments>
 		
