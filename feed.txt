@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Nigga News</title>
+	<atom:link href="http://nigganews.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://nigganews.com</link>
+	<description>real news, real nigga shit</description>
+	<lastBuildDate>Tue, 28 Apr 2020 03:02:55 +0000</lastBuildDate>
+	<itunes:author>
+		OTH€LLO X
+	</itunes:author>
+	<itunes:owner>
+		<itunes:email> moorishart@gmail.com </itunes:email>
+	</itunes:owner>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+<site xmlns="com-wordpress:feed-additions:1">174614120</site>	<item>
+		<title>Episode 011 &#8211; Funky Starlight</title>
+		<link>http://nigganews.com/podcast-011/</link>
+					<comments>http://nigganews.com/podcast-011/#respond</comments>
+		
+		<dc:creator><![CDATA[othello]]></dc:creator>
+		<pubDate>Tue, 28 Apr 2020 02:52:43 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[africa]]></category>
+		<category><![CDATA[atlanta]]></category>
+		<category><![CDATA[black comedy]]></category>
+		<category><![CDATA[chief]]></category>
+		<category><![CDATA[chris tucker]]></category>
+		<category><![CDATA[comedy]]></category>
+		<category><![CDATA[corona]]></category>
+		<category><![CDATA[corona virus]]></category>
+		<category><![CDATA[ebony]]></category>
+		<category><![CDATA[harlem]]></category>
+		<category><![CDATA[indians]]></category>
+		<category><![CDATA[Keisha Bottoms]]></category>
+		<category><![CDATA[Keisha Lance Bottoms]]></category>
+		<category><![CDATA[kenya]]></category>
+		<category><![CDATA[michael blackson]]></category>
+		<category><![CDATA[navajo nation]]></category>
+		<category><![CDATA[nyc]]></category>
+		<category><![CDATA[President Jonathan Nez]]></category>
+		<category><![CDATA[racist]]></category>
+		<category><![CDATA[red]]></category>
+		<category><![CDATA[rush hour]]></category>
+		<category><![CDATA[slurs]]></category>
+		<category><![CDATA[snaps]]></category>
+		<category><![CDATA[testing africa]]></category>
+		<author>OTH€LLO X</author>
+		<guid isPermaLink="false">http://nigganews.com/?p=136</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-audio"><audio controls src="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_011.mp3"></audio></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://nigganews.com/podcast-011/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_011.mp3" length="70515982" type="audio/mpeg" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">136</post-id>	</item>
+	<image>
+	<url>http://path.to/image.jpg</url>
+	<title>Nigga News Episode 011</title>
+	<link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/merlin_151657554_bca20d46-d26b-4205-958b-0a8ffd76a1de-superJumbo-560x560.jpg</link>
+	</image>
+	</channel>
+</rss>
