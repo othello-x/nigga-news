@@ -75,7 +75,7 @@
 
 		<post-id xmlns="com-wordpress:feed-additions:1">136</post-id>	</item>
 	<image>
-	<url>>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/merlin_151657554_bca20d46-d26b-4205-958b-0a8ffd76a1de-superJumbo-560x560.jpg</url>
+	<url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/merlin_151657554_bca20d46-d26b-4205-958b-0a8ffd76a1de-superJumbo-560x560.jpg</url>
 		</image>
 	<title>Nigga News Episode 011</title>
 
