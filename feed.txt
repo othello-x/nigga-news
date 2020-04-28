@@ -399,9 +399,7 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">61</post-id>	</item>
 		<item>
 		<title>Episode 001 &#8211; Blackonmics Bernie Bro</title>
-													<image>
-	<url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/1_CB54HUdG1xaZbvrDO5QDlQ-560x560.jpeg</url>
-		</image>
+		<itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/1_CB54HUdG1xaZbvrDO5QDlQ-560x560.jpeg" />
 		<link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_001-3.mp3</link>
 					<comments>http://nigganews.com/podcast-001/#respond</comments>
 		
