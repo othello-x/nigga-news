@@ -226,7 +226,7 @@
          <post-id xmlns="com-wordpress:feed-additions:1">79</post-id>
       </item>
       <item>
-         <title>Episode 003 – Contagion Shuga Bug No Hug</title>
+         <title>Episode 003 – Contagion Shuga Bug No Hugs</title>
          <itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/5b6d4f83ad017-560x560.jpeg" />
          <link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_003-1.mp3</link>
          <comments>http://nigganews.com/podcast-003/#respond</comments>
@@ -279,6 +279,27 @@
          <title>Episode 001 – Blackonmics Bernie Bro</title>
          <itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/1_CB54HUdG1xaZbvrDO5QDlQ-560x560.jpeg" />
          <link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_001-3.mp3</link>
+         <comments>http://nigganews.com/podcast-001/#respond</comments>
+         <dc:creator><![CDATA[othello]]></dc:creator>
+         <pubDate>Wed, 04 Mar 2020 00:34:47 +0000</pubDate>
+         <category><![CDATA[podcast]]></category>
+         <category><![CDATA[blacks]]></category>
+         <category><![CDATA[boondocks]]></category>
+         <category><![CDATA[funding]]></category>
+         <category><![CDATA[harlem]]></category>
+         <category><![CDATA[harlem capital]]></category>
+         <category><![CDATA[investment]]></category>
+         <category><![CDATA[nigga]]></category>
+         <category><![CDATA[nyc]]></category>
+         <category><![CDATA[trumps]]></category>
+         <category><![CDATA[umar johnson]]></category>
+         <category><![CDATA[vc]]></category>
+         <guid isPermaLink="false">http://nigganews.com/?p=41</guid>
+         <description />
+         <wfw:commentRss>http://nigganews.com/podcast-001/feed/</wfw:commentRss>
+         <slash:comments>0</slash:comments>
+         <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_001-3.mp3" length="37795003" type="audio/mpeg" />
+         <post-id xmlns="com-wordpress:feed-additions:1">41</post-id>
       </item>
    </channel>
 </rss>
