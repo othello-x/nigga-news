@@ -62,6 +62,36 @@
          <title>Episode 010 – Shirley No Cap!</title>
          <link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_010.mp3</link>
          <itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/gettyimages-642536326_custom-18cae891e84e108f6bd81037ca1d5468b4bef3de-s800-c85-560x540.jpg" />
+                  <comments>http://nigganews.com/podcast-010/#respond</comments>
+         <dc:creator><![CDATA[othello]]></dc:creator>
+         <pubDate>Sun, 19 Apr 2020 13:07:00 +0000</pubDate>
+         <category><![CDATA[podcast]]></category>
+         <category><![CDATA[african american]]></category>
+         <category><![CDATA[bhad bhabie]]></category>
+         <category><![CDATA[black]]></category>
+         <category><![CDATA[blackfishing]]></category>
+         <category><![CDATA[blue eyed soul]]></category>
+         <category><![CDATA[bubba wallace]]></category>
+         <category><![CDATA[cape town]]></category>
+         <category><![CDATA[coon]]></category>
+         <category><![CDATA[cultural appropriation]]></category>
+         <category><![CDATA[david dinkins]]></category>
+         <category><![CDATA[homeless]]></category>
+         <category><![CDATA[kyler larson]]></category>
+         <category><![CDATA[mayor]]></category>
+         <category><![CDATA[nascar]]></category>
+         <category><![CDATA[new york]]></category>
+         <category><![CDATA[nigga]]></category>
+         <category><![CDATA[racism]]></category>
+         <category><![CDATA[south africa]]></category>
+         <category><![CDATA[uncle tom]]></category>
+         <guid isPermaLink="false">http://nigganews.com/?p=105</guid>
+         <description />
+         <content:encoded><![CDATA[<figure class="wp-block-audio"><audio controls src="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_010.mp3" autoplay></audio></figure>]]></content:encoded>
+         <wfw:commentRss>http://nigganews.com/podcast-010/feed/</wfw:commentRss>
+         <slash:comments>0</slash:comments>
+                  <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_010.mp3" length="69805452" type="audio/mpeg" />
+         <post-id xmlns="com-wordpress:feed-additions:1">105</post-id>
       </item>
       <item>
          <title>Episode 009 – Shields from Slavery</title>
@@ -167,6 +197,7 @@
          <content:encoded><![CDATA[<figure class="wp-block-audio"><audio controls src="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_006.mp3"></audio></figure>]]></content:encoded>
          <wfw:commentRss>http://nigganews.com/podcast-006/feed/</wfw:commentRss>
          <slash:comments>0</slash:comments>
+                  <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_006.mp3" length="68136960" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">94</post-id>
       </item>
       <item>
@@ -224,6 +255,7 @@
          <content:encoded><![CDATA[<figure class="wp-block-audio"><audio controls src="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_004.mp3"></audio></figure>]]></content:encoded>
          <wfw:commentRss>http://nigganews.com/podcast-004/feed/</wfw:commentRss>
          <slash:comments>0</slash:comments>
+                           <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_004.mp3" length="81740276" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">79</post-id>
       </item>
       <item>
