@@ -108,6 +108,7 @@
          <content:encoded><![CDATA[<figure class="wp-block-audio"><audio controls src="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_008.mp3"></audio></figure>]]></content:encoded>
          <wfw:commentRss>http://nigganews.com/podcast-008/feed/</wfw:commentRss>
          <slash:comments>0</slash:comments>
+         <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_008.mp3" length="76108276" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">101</post-id>
       </item>
       <item>
