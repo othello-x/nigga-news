@@ -62,6 +62,7 @@
          <slash:comments>0</slash:comments>
          <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_011.mp3" length="70515982" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">136</post-id>
+         <itunes:duration>29:22</itunes:duration>
       </item>
       <item>
          <title>Episode 010 – Shirley No Cap!</title>
@@ -97,6 +98,7 @@
          <slash:comments>0</slash:comments>
                   <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_010.mp3" length="69805452" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">105</post-id>
+         <itunes:duration>29:05</itunes:duration>
       </item>
       <item>
          <title>Episode 009 – Shields from Slavery</title>
@@ -120,6 +122,7 @@
          <slash:comments>0</slash:comments>
          <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_009.mp3" length="26985533" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">103</post-id>
+         <itunes:duration>11:14</itunes:duration>
       </item>
       <item>
          <title>Episode 008 – Flu Right Past Us</title>
@@ -145,6 +148,7 @@
          <slash:comments>0</slash:comments>
          <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_008.mp3" length="76108276" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">101</post-id>
+         <itunes:duration>31:42</itunes:duration>
       </item>
       <item>
          <title>Episode 007 – Feminist Egyptian Hoteps</title>
@@ -178,6 +182,7 @@
          <slash:comments>0</slash:comments>
          <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_007.mp3" length="57319966" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">99</post-id>
+         <itunes:duration>23:52</itunes:duration>
       </item>
       <item>
          <title>Episode 006 – Legalized Africanized Domestication</title>
@@ -204,6 +209,7 @@
          <slash:comments>0</slash:comments>
                   <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_006.mp3" length="68136960" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">94</post-id>
+         <itunes:duration>28:23</itunes:duration>
       </item>
       <item>
          <title>Episode 005 – Christian Negroes Lack Empathy</title>
@@ -229,6 +235,7 @@
          <slash:comments>0</slash:comments>
          <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_005.mp3" length="37545272" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">84</post-id>
+         <itunes:duration>15:38</itunes:duration>
       </item>
       <item>
          <title>Episode 004 – Faker than Virginia Marmalade</title>
@@ -262,6 +269,7 @@
          <slash:comments>0</slash:comments>
                            <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_004.mp3" length="81740276" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">79</post-id>
+         <itunes:duration>34:03</itunes:duration>
       </item>
       <item>
          <title>Episode 003 – Contagion Shuga Bug No Hugs</title>
@@ -288,6 +296,7 @@
          <slash:comments>0</slash:comments>
          <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_003-1.mp3" length="52800782" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">69</post-id>
+         <itunes:duration>22:00</itunes:duration>
       </item>
       <item>
          <title>Episode 002 – Streaming Services See Slytherblacks</title>
@@ -312,6 +321,7 @@
          <slash:comments>0</slash:comments>
          <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_002.mp3" length="56425533" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">61</post-id>
+         <itunes:duration>23:30</itunes:duration>
       </item>
       <item>
          <title>Episode 001 – Blackonmics Bernie Bro</title>
@@ -338,6 +348,7 @@
          <slash:comments>0</slash:comments>
          <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_001-3.mp3" length="37795003" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">41</post-id>
+         <itunes:duration>15:44</itunes:duration>
       </item>
    </channel>
 </rss>
