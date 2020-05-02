@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
    <channel>
-      <itunes:category text="News"></itunes:category>
-      <itunes:category text="Comedy"></itunes:category>
+      <itunes:category text="News" />
+      <itunes:category text="Comedy" />
       <itunes:explicit>yes</itunes:explicit>
-      <itunes:duration>42:55</itunes:duration>
-      <itunes:image href="http://nigganews.com/wp-content/uploads/2020/04/black-camera-1203798-e1588194736509.jpg">
-      </itunes:image>
+      <itunes:image href="http://nigganews.com/wp-content/uploads/2020/04/black-camera-1203798-e1588194736509.jpg" />
       <title>Nigga News</title>
       <atom:link href="http://nigganews.com/feed/" rel="self" type="application/rss+xml" />
       <link>http://nigganews.com</link>
@@ -23,9 +21,52 @@
       <site xmlns="com-wordpress:feed-additions:1">174614120</site>
       <item>
          <image>
+            <url>http://nigganews.com/wp-content/uploads/2020/05/civil-war-62990_1920.jpg</url>
+         </image>
+         <description>Breaking down - africa, african american, akoin, akon, allegations, black, black girl, china, chris cuomo, corona, elections, film, fredo, godafther, history, italians, J.E. Franklin, joe biden, Madam C.J. Walker, Ossie Davis, racism, senegal, virus</description>
+         <title>Episode 012 – Won Through Attrition</title>
+         <link>http://nigganews.com/wp-content/uploads/2020/05/nn_012.mp3</link>
+         <comments>http://nigganews.com/episode-012/#respond</comments>
+         <dc:creator><![CDATA[othello]]></dc:creator>
+         <pubDate>Sat, 02 May 2020 02:27:53 +0000</pubDate>
+         <category><![CDATA[podcast]]></category>
+         <category><![CDATA[africa]]></category>
+         <category><![CDATA[african american]]></category>
+         <category><![CDATA[akoin]]></category>
+         <category><![CDATA[akon]]></category>
+         <category><![CDATA[allegations]]></category>
+         <category><![CDATA[black]]></category>
+         <category><![CDATA[black girl]]></category>
+         <category><![CDATA[china]]></category>
+         <category><![CDATA[chris cuomo]]></category>
+         <category><![CDATA[corona]]></category>
+         <category><![CDATA[elections]]></category>
+         <category><![CDATA[film]]></category>
+         <category><![CDATA[fredo]]></category>
+         <category><![CDATA[godafther]]></category>
+         <category><![CDATA[history]]></category>
+         <category><![CDATA[italians]]></category>
+         <category><![CDATA[J.E. Franklin]]></category>
+         <category><![CDATA[joe biden]]></category>
+         <category><![CDATA[Madam C.J. Walker]]></category>
+         <category><![CDATA[Ossie Davis]]></category>
+         <category><![CDATA[racism]]></category>
+         <category><![CDATA[senegal]]></category>
+         <category><![CDATA[virus]]></category>
+         <guid isPermaLink="false">http://nigganews.com/?p=154</guid>
+         <description />
+         <wfw:commentRss>http://nigganews.com/episode-012/feed/</wfw:commentRss>
+         <slash:comments>0</slash:comments>
+         <enclosure url="http://nigganews.com/wp-content/uploads/2020/05/nn_012.mp3" length="69805452" type="audio/mpeg" />
+         <post-id xmlns="com-wordpress:feed-additions:1">154</post-id>
+         itunes:duration>42:55</itunes:duration>
+      </item>
+      <item>
+         <image>
             <url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/merlin_151657554_bca20d46-d26b-4205-958b-0a8ffd76a1de-superJumbo-560x560.jpg</url>
          </image>
          <title>Episode 011 – Funky Starlight</title>
+                  <description>	africa, atlanta, black comedy, chief, chris tucker, comedy, corona, corona virus, ebony, harlem, indians, Keisha Bottoms, Keisha Lance Bottoms, kenya, michael blackson, navajo nation, nyc, President Jonathan Nez, racist, red, rush hour, slurs, snaps, testing africa</description>
          <link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_011.mp3</link>
          <comments>http://nigganews.com/podcast-011/#respond</comments>
          <dc:creator><![CDATA[othello]]></dc:creator>
@@ -67,9 +108,10 @@
       </item>
       <item>
          <title>Episode 010 – Shirley No Cap!</title>
+                           <description>african american, bhad bhabie, black, blackfishing, blue eyed soul, bubba wallace, cape town, coon, cultural appropriation, david dinkins, homeless, kyler larson, mayor, nascar, new york, nigga, racism, south africa, uncle tom</description>
          <link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_010.mp3</link>
          <itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/gettyimages-642536326_custom-18cae891e84e108f6bd81037ca1d5468b4bef3de-s800-c85-560x540.jpg" />
-                  <comments>http://nigganews.com/podcast-010/#respond</comments>
+         <comments>http://nigganews.com/podcast-010/#respond</comments>
          <dc:creator><![CDATA[othello]]></dc:creator>
          <pubDate>Sun, 19 Apr 2020 13:07:00 +0000</pubDate>
          <category><![CDATA[podcast]]></category>
@@ -97,12 +139,13 @@
          <content:encoded><![CDATA[<figure class="wp-block-audio"><audio controls src="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_010.mp3" autoplay></audio></figure>]]></content:encoded>
          <wfw:commentRss>http://nigganews.com/podcast-010/feed/</wfw:commentRss>
          <slash:comments>0</slash:comments>
-                  <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_010.mp3" length="69805452" type="audio/mpeg" />
+         <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_010.mp3" length="69805452" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">105</post-id>
          <itunes:duration>29:05</itunes:duration>
       </item>
       <item>
          <title>Episode 009 – Shields from Slavery</title>
+                                    <description>African ancestry, afro latina, china, corona, dna, dominican republic, nigga news</description>
          <itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/abg_claressashieldsfight-35-560x560.jpg" />
          <link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_009.mp3</link>
          <comments>http://nigganews.com/podcast-009/#respond</comments>
@@ -127,6 +170,7 @@
       </item>
       <item>
          <title>Episode 008 – Flu Right Past Us</title>
+                                             <description>bernie sanders, corona virus, doctors, health, Louisiana, Milwauke, ranting, south, van jones</description>
          <itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/150627-moynihan-black-panther-tease_m9pftx-1-560x560.jpg" />
          <link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_008.mp3</link>
          <comments>http://nigganews.com/podcast-008/#respond</comments>
@@ -153,6 +197,7 @@
       </item>
       <item>
          <title>Episode 007 – Feminist Egyptian Hoteps</title>
+                                                      <description>ancient egpyth, ancient nubia, chris rock, colored hockey league, congo, corona, domestic, egypt, feminism, hockey, joe exotic, michael jackson, nigga, nova scotia, nubia, relationships, whitewashing</description>
          <itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/wintayohannes1-560x439.jpg" />
          <link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_007.mp3</link>
          <comments>http://nigganews.com/podcast-007/#respond</comments>
@@ -187,6 +232,7 @@
       </item>
       <item>
          <title>Episode 006 – Legalized Africanized Domestication</title>
+                                                               <description>black men, intellectual, john Boyega, kyle barker, literacy, living single, nigga news, peace corps, star wars, uganda</description>
          <itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/ECn8MBaW4AAL3Lt-560x560.jpg" />
          <link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_006.mp3</link>
          <comments>http://nigganews.com/podcast-006/#respond</comments>
@@ -208,12 +254,13 @@
          <content:encoded><![CDATA[<figure class="wp-block-audio"><audio controls src="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_006.mp3"></audio></figure>]]></content:encoded>
          <wfw:commentRss>http://nigganews.com/podcast-006/feed/</wfw:commentRss>
          <slash:comments>0</slash:comments>
-                  <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_006.mp3" length="68136960" type="audio/mpeg" />
+         <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_006.mp3" length="68136960" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">94</post-id>
          <itunes:duration>28:23</itunes:duration>
       </item>
       <item>
          <title>Episode 005 – Christian Negroes Lack Empathy</title>
+                                                                        <description>	african american, african american pilots, black girl magic, black israelites, black panthers, black pilots, corona, flight, racism</description>
          <itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/71ce94777ee9df011a5aca1886545de0.jpg" />
          <link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_005.mp3</link>
          <comments>http://nigganews.com/podcast-005/#respond</comments>
@@ -240,6 +287,7 @@
       </item>
       <item>
          <title>Episode 004 – Faker than Virginia Marmalade</title>
+                                                                                 <description>	ahsoka tano, corona, doctor, Eunice Hunton Carter, invisible, jedi, mandalorian, new york, news, nigga, nigga news, nyc, racism, rosario dawson, star wars, trump, virus</description>
          <itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/1000x-1-560x560.jpg" />
          <link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_004.mp3</link>
          <comments>http://nigganews.com/podcast-004/#respond</comments>
@@ -268,12 +316,13 @@
          <content:encoded><![CDATA[<figure class="wp-block-audio"><audio controls src="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_004.mp3"></audio></figure>]]></content:encoded>
          <wfw:commentRss>http://nigganews.com/podcast-004/feed/</wfw:commentRss>
          <slash:comments>0</slash:comments>
-                           <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_004.mp3" length="81740276" type="audio/mpeg" />
+         <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_004.mp3" length="81740276" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">79</post-id>
          <itunes:duration>34:03</itunes:duration>
       </item>
       <item>
          <title>Episode 003 – Contagion Shuga Bug No Hugs</title>
+         <description>asian american, bernie sanders, china, corona, idris elba, joe biden, nyc, quarantine, racism, virus</description>
          <itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/5b6d4f83ad017-560x560.jpeg" />
          <link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_003-1.mp3</link>
          <comments>http://nigganews.com/podcast-003/#respond</comments>
@@ -301,6 +350,7 @@
       </item>
       <item>
          <title>Episode 002 – Streaming Services See Slytherblacks</title>
+          <description>allies, bnc, dwayne wade, ellen, koffee, lgbtq, Lupita Nyong’o, rush hour</description>
          <itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/Max-Robinson-at-ABC-World-News-Tonight-desk-560x560.jpg" />
          <link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_002.mp3</link>
          <comments>http://nigganews.com/podcast-002/#respond</comments>
@@ -326,6 +376,7 @@
       </item>
       <item>
          <title>Episode 001 – Blackonmics Bernie Bro</title>
+         <description>blacks, boondocks, funding, harlem, harlem capital, investment, nigga, nyc, trumps, umar johnson, vc</description>
          <itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/1_CB54HUdG1xaZbvrDO5QDlQ-560x560.jpeg" />
          <link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_001-3.mp3</link>
          <comments>http://nigganews.com/podcast-001/#respond</comments>
