@@ -20,6 +20,80 @@
       <generator>https://wordpress.org/?v=5.4</generator>
       <site xmlns="com-wordpress:feed-additions:1">174614120</site>
       <item>
+               <enclosure url="http://nigganews.com/wp-content/uploads/2020/05/nn_013.mp3" length="69805452" type="audio/mpeg" />
+         <post-id xmlns="com-wordpress:feed-additions:1">154</post-id>
+		<title>Episode 013 &#8211; Tesla Tulsa Tussle</title>
+      <itunes:summary>The Black Wall Street, actors, diversity, JANET HUBERT, Oklahoma, oscars, Oscars So White, riot,  Tulsa race massacre, Tulsa</itunes:summary>
+		<link>http://nigganews.com/wp-content/uploads/2020/05/nn_013.mp3</link>
+      <itunes:image href="http://nigganews.com/wp-content/uploads/2020/04/black-camera-1203798-e1588194736509.jpg" />
+					<comments>http://nigganews.com/episode-013/#respond</comments>
+		
+		<dc:creator><![CDATA[othello]]></dc:creator>
+		<pubDate>Sat, 02 May 2020 14:48:12 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[actors]]></category>
+		<category><![CDATA[diversity]]></category>
+		<category><![CDATA[JANET HUBERT]]></category>
+		<category><![CDATA[Oklahoma]]></category>
+		<category><![CDATA[oscars]]></category>
+		<category><![CDATA[Oscars So White]]></category>
+		<category><![CDATA[riot]]></category>
+		<category><![CDATA[The Black Wall Street]]></category>
+		<category><![CDATA[Tulsa race massacre]]></category>
+		<category><![CDATA[tusal]]></category>
+		<guid isPermaLink="false">http://nigganews.com/?p=159</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>http://nigganews.com/episode-013/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		<itunes:duration>16:26</itunes:duration>
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">159</post-id>
+      <description>The Black Wall Street, actors, diversity, JANET HUBERT, Oklahoma, oscars, Oscars So White, riot,  Tulsa race massacre, Tulsa</description>
+      </item>
+		<item>
+		<title>Episode 012 &#8211; Won Through Attrition</title>
+		<link>http://nigganews.com/episode-012/</link>
+					<comments>http://nigganews.com/episode-012/#respond</comments>
+		
+		<dc:creator><![CDATA[othello]]></dc:creator>
+		<pubDate>Sat, 02 May 2020 02:27:53 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[africa]]></category>
+		<category><![CDATA[african american]]></category>
+		<category><![CDATA[akoin]]></category>
+		<category><![CDATA[akon]]></category>
+		<category><![CDATA[allegations]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[black girl]]></category>
+		<category><![CDATA[china]]></category>
+		<category><![CDATA[chris cuomo]]></category>
+		<category><![CDATA[corona]]></category>
+		<category><![CDATA[elections]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[fredo]]></category>
+		<category><![CDATA[godafther]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[italians]]></category>
+		<category><![CDATA[J.E. Franklin]]></category>
+		<category><![CDATA[joe biden]]></category>
+		<category><![CDATA[Madam C.J. Walker]]></category>
+		<category><![CDATA[Ossie Davis]]></category>
+		<category><![CDATA[racism]]></category>
+		<category><![CDATA[senegal]]></category>
+		<category><![CDATA[virus]]></category>
+		<guid isPermaLink="false">http://nigganews.com/?p=154</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>http://nigganews.com/episode-012/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/05/nn_012.mp3" length="103000815" type="audio/mpeg" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">154</post-id>	</item>
+      <item>
       <itunes:image href="http://nigganews.com/wp-content/uploads/2020/05/civil-war-62990_1920.jpg" />
       <itunes:duration>42:55</itunes:duration>
          <image>
