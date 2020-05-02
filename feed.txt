@@ -54,7 +54,6 @@
          <category><![CDATA[senegal]]></category>
          <category><![CDATA[virus]]></category>
          <guid isPermaLink="false">http://nigganews.com/?p=154</guid>
-         <description />
          <wfw:commentRss>http://nigganews.com/episode-012/feed/</wfw:commentRss>
          <slash:comments>0</slash:comments>
          <enclosure url="http://nigganews.com/wp-content/uploads/2020/05/nn_012.mp3" length="69805452" type="audio/mpeg" />
