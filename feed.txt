@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
    <channel>
+      <itunes:category text="News" />
+      <itunes:category text="Comedy" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="http://nigganews.com/wp-content/uploads/2020/04/black-camera-1203798-e1588194736509.jpg" />
       <title>Nigga News</title>
       <atom:link href="http://nigganews.com/feed/" rel="self" type="application/rss+xml" />
       <link>http://nigganews.com</link>
@@ -15,6 +19,46 @@
       <sy:updateFrequency>1</sy:updateFrequency>
       <generator>https://wordpress.org/?v=5.4</generator>
       <site xmlns="com-wordpress:feed-additions:1">174614120</site>
+      <item>
+         <image>
+            <url>http://nigganews.com/wp-content/uploads/2020/05/civil-war-62990_1920.jpg</url>
+         </image>
+         <title>Episode 012 – Won Through Attrition</title>
+         <link>http://nigganews.com/wp-content/uploads/2020/05/nn_012.mp3</link>
+         <comments>http://nigganews.com/episode-012/#respond</comments>
+         <dc:creator><![CDATA[othello]]></dc:creator>
+         <pubDate>Sat, 02 May 2020 02:27:53 +0000</pubDate>
+         <category><![CDATA[podcast]]></category>
+         <category><![CDATA[africa]]></category>
+         <category><![CDATA[african american]]></category>
+         <category><![CDATA[akoin]]></category>
+         <category><![CDATA[akon]]></category>
+         <category><![CDATA[allegations]]></category>
+         <category><![CDATA[black]]></category>
+         <category><![CDATA[black girl]]></category>
+         <category><![CDATA[china]]></category>
+         <category><![CDATA[chris cuomo]]></category>
+         <category><![CDATA[corona]]></category>
+         <category><![CDATA[elections]]></category>
+         <category><![CDATA[film]]></category>
+         <category><![CDATA[fredo]]></category>
+         <category><![CDATA[godafther]]></category>
+         <category><![CDATA[history]]></category>
+         <category><![CDATA[italians]]></category>
+         <category><![CDATA[J.E. Franklin]]></category>
+         <category><![CDATA[joe biden]]></category>
+         <category><![CDATA[Madam C.J. Walker]]></category>
+         <category><![CDATA[Ossie Davis]]></category>
+         <category><![CDATA[racism]]></category>
+         <category><![CDATA[senegal]]></category>
+         <category><![CDATA[virus]]></category>
+         <guid isPermaLink="false">http://nigganews.com/?p=154</guid>
+         <description />
+         <wfw:commentRss>http://nigganews.com/episode-012/feed/</wfw:commentRss>
+         <slash:comments>0</slash:comments>
+         <enclosure url="http://nigganews.com/wp-content/uploads/2020/05/nn_012.mp3" length="69805452" type="audio/mpeg" />
+         <post-id xmlns="com-wordpress:feed-additions:1">154</post-id>
+      </item>
       <item>
          <image>
             <url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/merlin_151657554_bca20d46-d26b-4205-958b-0a8ffd76a1de-superJumbo-560x560.jpg</url>
@@ -57,12 +101,13 @@
          <slash:comments>0</slash:comments>
          <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_011.mp3" length="70515982" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">136</post-id>
+         <itunes:duration>29:22</itunes:duration>
       </item>
       <item>
          <title>Episode 010 – Shirley No Cap!</title>
          <link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_010.mp3</link>
          <itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/gettyimages-642536326_custom-18cae891e84e108f6bd81037ca1d5468b4bef3de-s800-c85-560x540.jpg" />
-                  <comments>http://nigganews.com/podcast-010/#respond</comments>
+         <comments>http://nigganews.com/podcast-010/#respond</comments>
          <dc:creator><![CDATA[othello]]></dc:creator>
          <pubDate>Sun, 19 Apr 2020 13:07:00 +0000</pubDate>
          <category><![CDATA[podcast]]></category>
@@ -90,8 +135,9 @@
          <content:encoded><![CDATA[<figure class="wp-block-audio"><audio controls src="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_010.mp3" autoplay></audio></figure>]]></content:encoded>
          <wfw:commentRss>http://nigganews.com/podcast-010/feed/</wfw:commentRss>
          <slash:comments>0</slash:comments>
-                  <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_010.mp3" length="69805452" type="audio/mpeg" />
+         <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_010.mp3" length="69805452" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">105</post-id>
+         <itunes:duration>29:05</itunes:duration>
       </item>
       <item>
          <title>Episode 009 – Shields from Slavery</title>
@@ -115,6 +161,7 @@
          <slash:comments>0</slash:comments>
          <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_009.mp3" length="26985533" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">103</post-id>
+         <itunes:duration>11:14</itunes:duration>
       </item>
       <item>
          <title>Episode 008 – Flu Right Past Us</title>
@@ -140,6 +187,7 @@
          <slash:comments>0</slash:comments>
          <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_008.mp3" length="76108276" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">101</post-id>
+         <itunes:duration>31:42</itunes:duration>
       </item>
       <item>
          <title>Episode 007 – Feminist Egyptian Hoteps</title>
@@ -173,6 +221,7 @@
          <slash:comments>0</slash:comments>
          <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_007.mp3" length="57319966" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">99</post-id>
+         <itunes:duration>23:52</itunes:duration>
       </item>
       <item>
          <title>Episode 006 – Legalized Africanized Domestication</title>
@@ -197,8 +246,9 @@
          <content:encoded><![CDATA[<figure class="wp-block-audio"><audio controls src="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_006.mp3"></audio></figure>]]></content:encoded>
          <wfw:commentRss>http://nigganews.com/podcast-006/feed/</wfw:commentRss>
          <slash:comments>0</slash:comments>
-                  <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_006.mp3" length="68136960" type="audio/mpeg" />
+         <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_006.mp3" length="68136960" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">94</post-id>
+         <itunes:duration>28:23</itunes:duration>
       </item>
       <item>
          <title>Episode 005 – Christian Negroes Lack Empathy</title>
@@ -224,6 +274,7 @@
          <slash:comments>0</slash:comments>
          <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_005.mp3" length="37545272" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">84</post-id>
+         <itunes:duration>15:38</itunes:duration>
       </item>
       <item>
          <title>Episode 004 – Faker than Virginia Marmalade</title>
@@ -255,8 +306,9 @@
          <content:encoded><![CDATA[<figure class="wp-block-audio"><audio controls src="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_004.mp3"></audio></figure>]]></content:encoded>
          <wfw:commentRss>http://nigganews.com/podcast-004/feed/</wfw:commentRss>
          <slash:comments>0</slash:comments>
-                           <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_004.mp3" length="81740276" type="audio/mpeg" />
+         <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_004.mp3" length="81740276" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">79</post-id>
+         <itunes:duration>34:03</itunes:duration>
       </item>
       <item>
          <title>Episode 003 – Contagion Shuga Bug No Hugs</title>
@@ -283,6 +335,7 @@
          <slash:comments>0</slash:comments>
          <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_003-1.mp3" length="52800782" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">69</post-id>
+         <itunes:duration>22:00</itunes:duration>
       </item>
       <item>
          <title>Episode 002 – Streaming Services See Slytherblacks</title>
@@ -307,6 +360,7 @@
          <slash:comments>0</slash:comments>
          <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_002.mp3" length="56425533" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">61</post-id>
+         <itunes:duration>23:30</itunes:duration>
       </item>
       <item>
          <title>Episode 001 – Blackonmics Bernie Bro</title>
@@ -333,6 +387,7 @@
          <slash:comments>0</slash:comments>
          <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_001-3.mp3" length="37795003" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">41</post-id>
+         <itunes:duration>15:44</itunes:duration>
       </item>
    </channel>
 </rss>
