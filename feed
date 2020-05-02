@@ -20,6 +20,7 @@
       <generator>https://wordpress.org/?v=5.4</generator>
       <site xmlns="com-wordpress:feed-additions:1">174614120</site>
       <item>
+      <itunes:image href="http://nigganews.com/wp-content/uploads/2020/05/civil-war-62990_1920.jpg" />
          <image>
             <url>http://nigganews.com/wp-content/uploads/2020/05/civil-war-62990_1920.jpg</url>
          </image>
@@ -54,12 +55,10 @@
          <category><![CDATA[senegal]]></category>
          <category><![CDATA[virus]]></category>
          <guid isPermaLink="false">http://nigganews.com/?p=154</guid>
-         <description />
          <wfw:commentRss>http://nigganews.com/episode-012/feed/</wfw:commentRss>
          <slash:comments>0</slash:comments>
          <enclosure url="http://nigganews.com/wp-content/uploads/2020/05/nn_012.mp3" length="69805452" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">154</post-id>
-         itunes:duration>42:55</itunes:duration>
       </item>
       <item>
          <image>
