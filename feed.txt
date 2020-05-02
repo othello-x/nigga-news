@@ -20,6 +20,9 @@
       <generator>https://wordpress.org/?v=5.4</generator>
       <site xmlns="com-wordpress:feed-additions:1">174614120</site>
       <item>
+              <image>
+            <url>http://nigganews.com/wp-content/uploads/2020/04/black-camera-1203798-e1588194736509.jpg</url>
+         </image>
                <enclosure url="http://nigganews.com/wp-content/uploads/2020/05/nn_013.mp3" length="69805452" type="audio/mpeg" />
          <post-id xmlns="com-wordpress:feed-additions:1">154</post-id>
 		<title>Episode 013 &#8211; Tesla Tulsa Tussle</title>
@@ -104,6 +107,10 @@
                   <description>africa, atlanta, black comedy, chief, chris tucker, comedy, corona, corona virus, ebony, harlem, indians, Keisha Bottoms, Keisha Lance Bottoms, kenya, michael blackson, navajo nation, nyc, President Jonathan Nez, racist, red, rush hour, slurs, snaps, testing africa</description>
          <link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_011.mp3</link>
          <comments>http://nigganews.com/podcast-011/#respond</comments>
+	          <image>
+            <url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/merlin_151657554_bca20d46-d26b-4205-958b-0a8ffd76a1de-superJumbo-560x560.jpg</url>
+         </image>
+	  <itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/merlin_151657554_bca20d46-d26b-4205-958b-0a8ffd76a1de-superJumbo-560x560.jpg" />
          <dc:creator><![CDATA[othello]]></dc:creator>
          <pubDate>Tue, 28 Apr 2020 02:52:43 +0000</pubDate>
          <category><![CDATA[podcast]]></category>
