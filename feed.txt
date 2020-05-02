@@ -20,6 +20,7 @@
       <generator>https://wordpress.org/?v=5.4</generator>
       <site xmlns="com-wordpress:feed-additions:1">174614120</site>
       <item>
+      <itunes:image href="http://nigganews.com/wp-content/uploads/2020/05/civil-war-62990_1920.jpg" />
          <image>
             <url>http://nigganews.com/wp-content/uploads/2020/05/civil-war-62990_1920.jpg</url>
          </image>
