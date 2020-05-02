@@ -21,6 +21,7 @@
       <site xmlns="com-wordpress:feed-additions:1">174614120</site>
       <item>
       <itunes:image href="http://nigganews.com/wp-content/uploads/2020/05/civil-war-62990_1920.jpg" />
+      <itunes:duration>42:55</itunes:duration>
          <image>
             <url>http://nigganews.com/wp-content/uploads/2020/05/civil-war-62990_1920.jpg</url>
          </image>
@@ -97,7 +98,6 @@
          <category><![CDATA[testing africa]]></category>
          <author>OTH€LLO X</author>
          <guid isPermaLink="false">http://nigganews.com/?p=136</guid>
-         <description />
          <content:encoded><![CDATA[<figure class="wp-block-audio"><audio controls src="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_011.mp3"></audio></figure>]]></content:encoded>
          <wfw:commentRss>http://nigganews.com/podcast-011/feed/</wfw:commentRss>
          <slash:comments>0</slash:comments>
@@ -134,7 +134,6 @@
          <category><![CDATA[south africa]]></category>
          <category><![CDATA[uncle tom]]></category>
          <guid isPermaLink="false">http://nigganews.com/?p=105</guid>
-         <description />
          <content:encoded><![CDATA[<figure class="wp-block-audio"><audio controls src="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_010.mp3" autoplay></audio></figure>]]></content:encoded>
          <wfw:commentRss>http://nigganews.com/podcast-010/feed/</wfw:commentRss>
          <slash:comments>0</slash:comments>
@@ -186,7 +185,6 @@
          <category><![CDATA[south]]></category>
          <category><![CDATA[van jones]]></category>
          <guid isPermaLink="false">http://nigganews.com/?p=101</guid>
-         <description />
          <content:encoded><![CDATA[<figure class="wp-block-audio"><audio controls src="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_008.mp3"></audio></figure>]]></content:encoded>
          <wfw:commentRss>http://nigganews.com/podcast-008/feed/</wfw:commentRss>
          <slash:comments>0</slash:comments>
@@ -249,7 +247,6 @@
          <category><![CDATA[star wars]]></category>
          <category><![CDATA[uganda]]></category>
          <guid isPermaLink="false">http://nigganews.com/?p=94</guid>
-         <description />
          <content:encoded><![CDATA[<figure class="wp-block-audio"><audio controls src="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/04/nn_006.mp3"></audio></figure>]]></content:encoded>
          <wfw:commentRss>http://nigganews.com/podcast-006/feed/</wfw:commentRss>
          <slash:comments>0</slash:comments>
@@ -276,7 +273,6 @@
          <category><![CDATA[flight]]></category>
          <category><![CDATA[racism]]></category>
          <guid isPermaLink="false">http://nigganews.com/?p=84</guid>
-         <description />
          <content:encoded><![CDATA[<figure class="wp-block-audio"><audio controls src="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_005.mp3"></audio></figure>]]></content:encoded>
          <wfw:commentRss>http://nigganews.com/podcast-005/feed/</wfw:commentRss>
          <slash:comments>0</slash:comments>
@@ -311,7 +307,6 @@
          <category><![CDATA[trump]]></category>
          <category><![CDATA[virus]]></category>
          <guid isPermaLink="false">http://nigganews.com/?p=79</guid>
-         <description />
          <content:encoded><![CDATA[<figure class="wp-block-audio"><audio controls src="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_004.mp3"></audio></figure>]]></content:encoded>
          <wfw:commentRss>http://nigganews.com/podcast-004/feed/</wfw:commentRss>
          <slash:comments>0</slash:comments>
@@ -365,7 +360,6 @@
          <category><![CDATA[Lupita Nyong’o]]></category>
          <category><![CDATA[rush hour]]></category>
          <guid isPermaLink="false">http://nigganews.com/?p=61</guid>
-         <description />
          <content:encoded><![CDATA[<figure class="wp-block-audio"><audio controls src="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_002.mp3"></audio></figure>]]></content:encoded>
          <wfw:commentRss>http://nigganews.com/podcast-002/feed/</wfw:commentRss>
          <slash:comments>0</slash:comments>
@@ -394,7 +388,6 @@
          <category><![CDATA[umar johnson]]></category>
          <category><![CDATA[vc]]></category>
          <guid isPermaLink="false">http://nigganews.com/?p=41</guid>
-         <description />
          <wfw:commentRss>http://nigganews.com/podcast-001/feed/</wfw:commentRss>
          <slash:comments>0</slash:comments>
          <enclosure url="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/03/nn_001-3.mp3" length="37795003" type="audio/mpeg" />
