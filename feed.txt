@@ -24,7 +24,7 @@
             <url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/05/chess-1252982_1920-560x560.jpg</url>
          </image>
 		<title>Episode 014 &#8211; Lavish LaGuardia Blexit</title>
-		<link>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/05/nn_013.mp3/</link>
+		<link>http://nigganews.com/wp-content/uploads/2020/05/nn_014.mp3</link>
 					<comments>http://nigganews.com/episode-014/#respond</comments>
 		     <itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/05/chess-1252982_1920-560x560.jpg" />
 		           <itunes:summary>P Diddy holds Black vote hostage from Biden 0:25 - 3:12 | Jane Matilda Bolin America's first female African-American judge 3:16-9:04 | Black man thinks he's a cyborg 9:06- 14:40</itunes:summary>
@@ -48,7 +48,7 @@
 		
 					<wfw:commentRss>http://nigganews.com/episode-014/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-				<enclosure url=">https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/05/nn_013.mp3/" length="39466840" type="audio/mpeg" />
+				<enclosure url="http://nigganews.com/wp-content/uploads/2020/05/nn_014.mp3" length="39466840" type="audio/mpeg" />
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">165</post-id>	
 		</item>
