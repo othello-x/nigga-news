@@ -19,6 +19,43 @@
       <sy:updateFrequency>1</sy:updateFrequency>
       <generator>https://wordpress.org/?v=5.4</generator>
       <site xmlns="com-wordpress:feed-additions:1">174614120</site>
+      <item>
+       <enclosure url="http://nigganews.com/wp-content/uploads/2020/05/nn_015.mp3" length="69805452" type="audio/mpeg" />
+       <image>
+            <url>http://nigganews.com/wp-content/uploads/2020/05/Picture1-1.png</url>
+         </image>
+      <itunes:duration>35:44</itunes:duration>
+		<title>Episode 015 &#8211; Don&#8217;t Taze Me Bruh</title>
+		<link>http://nigganews.com/wp-content/uploads/2020/05/nn_015.mp3</link>
+					<comments>http://nigganews.com/episode-015/#respond</comments>
+		
+		<dc:creator><![CDATA[othello]]></dc:creator>
+		<pubDate>Sat, 09 May 2020 20:45:17 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[african american]]></category>
+		<category><![CDATA[ahmaud arbery]]></category>
+		<category><![CDATA[becky]]></category>
+		<category><![CDATA[denzel washington]]></category>
+		<category><![CDATA[freestyle]]></category>
+		<category><![CDATA[hip hop]]></category>
+		<category><![CDATA[hood]]></category>
+		<category><![CDATA[katie couric]]></category>
+		<category><![CDATA[kkk]]></category>
+		<category><![CDATA[malcom x]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[rap]]></category>
+		<category><![CDATA[redd foxx]]></category>
+		<category><![CDATA[success]]></category>
+		<guid isPermaLink="false">http://nigganews.com/?p=172</guid>
+ <itunes:summary>(0:44) African Americans &#038; Photography &#124; (4:24) Successful African American Towns in 1920's &#124; (6:24) Classic Freestyle &#124; (8:18) Ahmaud Arbery Case &#124; (20:00) Shopper wears KKK hood  &#124; (22:56)  Katie Couric &#038; Denzel Washington controversy &#124; (26:44) Red Foxx &#038; Malcom X friendship</itunes:summary>
+					<description>(0:44) African Americans &#038; Photography &#124; (4:24) Successful African American Towns in 1920's &#124; (6:24) Classic Freestyle &#124; (8:18) Ahmaud Arbery Case &#124; (20:00) Shopper wears KKK hood  &#124; (22:56)  Katie Couric &#038; Denzel Washington controversy &#124; (26:44) Red Foxx &#038; Malcom X friendship</description>
+		
+					<wfw:commentRss>http://nigganews.com/episode-015/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		 <itunes:image href="http://nigganews.com/wp-content/uploads/2020/05/Picture1-1.png" />
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">172</post-id>
+		</item>
             <item>
        <image>
             <url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/05/chess-1252982_1920-560x560.jpg</url>
