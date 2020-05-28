@@ -20,9 +20,33 @@
       <generator>https://wordpress.org/?v=5.4</generator>
       <site xmlns="com-wordpress:feed-additions:1">174614120</site>
       <item>
+      <itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/05/Picture1-2-560x506.png" />
+		<title>Episode 016 &#8211; Blackfoot Outro</title>
+		<link>http://nigganews.com/wp-content/uploads/2020/05/nn_016.mp3/</link>
+					<comments>http://nigganews.com/episode-016/#respond</comments>
+		
+		<dc:creator><![CDATA[othello]]></dc:creator>
+		<pubDate>Thu, 28 May 2020 17:59:58 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<guid isPermaLink="false">http://nigganews.com/?p=180</guid>
+ <itunes:summary(0:00) Andrew & Chris Cuomo on Covid 19 | (4:48) Magic Johnson on Covid 19 amongst African-Americans| (7:20) Ghana President stuns French President | (17:20) Adele no longer thicc | (22:46) James Earl Jones keeps it classy | (22:56) Katie Couric & Denzel Washington controversy | (30:52) John Redcorn King of the Hill | (32:24) Black Girl Magic | (33:36) 6ix9ine returns | (37:20) Anderson Cooper becomes baby daddy</itunes:summary>
+					<description><![CDATA[(0:00) Andrew &#38; Chris Cuomo on Covid 19 &#124; (4:48) Magic Johnson on Covid 19 amongst African-Americans&#124; (7:20) Ghana President stuns French President &#124; (17:20) Adele no longer thicc &#124; (22:46) James Earl Jones keeps it classy &#124; (22:56) Katie Couric &#38; Denzel Washington controversy &#124; (30:52) John Redcorn King of the Hill &#124; (32:24) [&#8230;]]]></description>
+		
+					<wfw:commentRss>http://nigganews.com/episode-016/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">180</post-id>
+		<enclosure url="http://nigganews.com/wp-content/uploads/2020/05/nn_016.mp3" length="69805452" type="audio/mpeg" />
+		 <itunes:duration>40:28</itunes:duration>
+		    <image>
+		    	<url>http://nigganews.com/wp-content/uploads/2020/05/Picture1-1.png</url>
+		    </image>
+		</item>
+      <item>
        <enclosure url="http://nigganews.com/wp-content/uploads/2020/05/nn_015.mp3" length="69805452" type="audio/mpeg" />
        <image>
-            <url>http://nigganews.com/wp-content/uploads/2020/05/Picture1-1.png</url>
+            <url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/05/Picture1-2-560x506.png</url>
          </image>
       <itunes:duration>35:44</itunes:duration>
 		<title>Episode 015 &#8211; Don&#8217;t Taze Me Bruh</title>
