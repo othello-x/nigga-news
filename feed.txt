@@ -20,6 +20,34 @@
       <generator>https://wordpress.org/?v=5.4</generator>
       <site xmlns="com-wordpress:feed-additions:1">174614120</site>
       <item>
+      <image>
+		    	<url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/06/black-square-1-540x540.jpg</url>
+			<itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/06/black-square-1-540x540.jpg" />
+    	</image>
+       <enclosure url="http://nigganews.com/wp-content/uploads/2020/06/nn_017.mp3" length="69805452" type="audio/mpeg" />
+       <itunes:duration>18:57</itunes:duration>
+		<title>Episode 017 &#8211; Hostile Friendly Protests</title>
+		<link>http://nigganews.com/wp-content/uploads/2020/06/nn_017.mp3</link>
+					<comments>http://nigganews.com/episode-017/#respond</comments>
+		
+		<dc:creator><![CDATA[othello]]></dc:creator>
+		<pubDate>Thu, 04 Jun 2020 16:26:15 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<guid isPermaLink="false">http://nigganews.com/?p=197</guid>
+
+		<description><![CDATA[
+ 		 (1:00) Central Park Becky | (3:50) Amazon Native visits NYC | (7:00) George Floyd protests turns fun | (11:28) Black business owner during LA Riots
+		]]></description>
+		<itunes:summary>
+		(1:00) Central Park Becky | (3:50) Amazon Native visits NYC | (7:00) George Floyd protests turns fun | (11:28) Black business owner during LA Riots
+        	</itunes:summary>
+					<wfw:commentRss>http://nigganews.com/episode-017/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">197</post-id>	
+      </item>
+      <item>
       <itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/05/Picture1-2-560x506.png" />
 		<title>Episode 016 &#8211; Blackfoot Outro</title>
 		<link>http://nigganews.com/wp-content/uploads/2020/05/nn_016.mp3/</link>
