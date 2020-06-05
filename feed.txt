@@ -20,6 +20,30 @@
       <generator>https://wordpress.org/?v=5.4</generator>
       <site xmlns="com-wordpress:feed-additions:1">174614120</site>
       <item>
+      <itunes:duration>15:04</itunes:duration>
+      <image>
+          	<url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/06/Yasuke-e1591372722719-560x560.png</url>
+			</image>
+			<itunes:image href="https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/06/Yasuke-e1591372722719-560x560.png" />
+		<title>Episode 018 &#8211; Kuronbo Weeboo</title>
+		 <enclosure url="http://nigganews.com/wp-content/uploads/2020/06/nn_018.mp3" length="69805452" type="audio/mpeg" />
+		<link>http://nigganews.com/wp-content/uploads/2020/06/nn_018.mp3</link>
+					<comments>http://nigganews.com/episode-018/#respond</comments>
+		
+		<dc:creator><![CDATA[othello]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2020 15:59:34 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<guid isPermaLink="false">http://nigganews.com/?p=203</guid>
+
+					<description><![CDATA[ Yasuke, the African Samurai ]]></description>
+		<itunes:summary>Yasuke, the African Samurai</itunes:summary>
+					<wfw:commentRss>http://nigganews.com/episode-018/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">203</post-id>	
+	</item>
+      <item>
       <image>
 		    	<url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/06/black-square-1-540x540.jpg</url>
 			</image>
