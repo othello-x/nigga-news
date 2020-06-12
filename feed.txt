@@ -20,6 +20,29 @@
       <generator>https://wordpress.org/?v=5.4</generator>
       <site xmlns="com-wordpress:feed-additions:1">174614120</site>
       <item>
+		<title>Episode 019 &#8211; Chicago on Repeat</title>
+		<link>http://nigganews.com/wp-content/uploads/2020/06/nn_019.mp3</link>
+					<comments>http://nigganews.com/episode-019/#respond</comments>
+		
+		<dc:creator><![CDATA[othello]]></dc:creator>
+		<pubDate>Fri, 12 Jun 2020 19:57:20 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<guid isPermaLink="false">http://nigganews.com/?p=206</guid>
+
+					<description><![CDATA[ (0:28) James Baldwin is not your negro | (3:04) Whites stole from Africa | (5:04) Toni Morrison schools Charlie Rose | (9:56) Muhammad Ali build w Wilt Chamberlain | (11:58) Denzel Washington KO's reporter ]]></description>
+		
+					<wfw:commentRss>http://nigganews.com/episode-019/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		      <image>
+          	<url>http://nigganews.com/wp-content/uploads/2020/06/ianyn_ex_og.jpg</url>
+		 </image>
+		<post-id xmlns="com-wordpress:feed-additions:1">206</post-id>	
+		<itunes:duration>16:17</itunes:duration>
+		<itunes:image href="http://nigganews.com/wp-content/uploads/2020/06/ianyn_ex_og.jpg" />
+		<itunes:summary> (0:28) James Baldwin is not your negro | (3:04) Whites stole from Africa | (5:04) Toni Morrison schools Charlie Rose | (9:56) Muhammad Ali build w Wilt Chamberlain | (11:58) Denzel Washington KO's reporter </itunes:summary>
+		 <enclosure url="http://nigganews.com/wp-content/uploads/2020/06/nn_019.mp3" length="69805452" type="audio/mpeg" />
+	</item>
+      <item>
       <itunes:duration>15:04</itunes:duration>
       <image>
           	<url>https://secureservercdn.net/198.71.233.47/39r.695.myftpupload.com/wp-content/uploads/2020/06/Yasuke-e1591372722719-560x560.png</url>
