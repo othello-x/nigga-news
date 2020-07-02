@@ -20,6 +20,35 @@
       <generator>https://wordpress.org/?v=5.4</generator>
       <site xmlns="com-wordpress:feed-additions:1">174614120</site>
       <item>
+      		<itunes:summary>
+		(0:20) Camden, NJ Disbands Police | (4:32) Jimmy Kimmel is a Nigga | (6:52) Black YouTuber Reviews Entire Race | (14:28) History of Kush | (16:58) Freestyle Analysis for Laymen | (20:24) Black Divers Salvage Slave Shipwrecks
+        	</itunes:summary>
+		<description><![CDATA[
+ 		(0:20) Camden, NJ Disbands Police | (4:32) Jimmy Kimmel is a Nigga | (6:52) Black YouTuber Reviews Entire Race | (14:28) History of Kush | (16:58) Freestyle Analysis for Laymen | (20:24) Black Divers Salvage Slave Shipwrecks
+		]]></description>
+		<title>Episode 020 &#8211; Register Your Suffrage</title>
+		<link>http://nigganews.com/wp-content/uploads/2020/07/nn_020.mp3</link>
+					<comments>http://nigganews.com/episode-020/#respond</comments>
+		<enclosure url="http://nigganews.com/wp-content/uploads/2020/07/nn_020.mp3" length="69805452" type="audio/mpeg" />
+		<itunes:duration>35:32</itunes:duration>
+		  <image>
+          	<url>http://nigganews.com/wp-content/uploads/2020/07/https___cdn.cnn_.com_cnnnext_dam_assets_190919011748-blackface-1951-doris-day-e1593707177237.jpg</url>
+		 </image>
+		 <itunes:image href="http://nigganews.com/wp-content/uploads/2020/07/https___cdn.cnn_.com_cnnnext_dam_assets_190919011748-blackface-1951-doris-day-e1593707177237.jpg" />
+		<dc:creator><![CDATA[othello]]></dc:creator>
+		<pubDate>Thu, 02 Jul 2020 16:28:15 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<guid isPermaLink="false">http://nigganews.com/?p=215</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>http://nigganews.com/episode-020/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">215</post-id>	
+	</item>
+      <item>
 		<title>Episode 019 &#8211; Chicago on Repeat</title>
 		<link>http://nigganews.com/wp-content/uploads/2020/06/nn_019.mp3</link>
 					<comments>http://nigganews.com/episode-019/#respond</comments>
